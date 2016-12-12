@@ -1,0 +1,446 @@
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Loops\African Night 87bpm Main .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Loops\African Night 87bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\01 BD African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\02 BD African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\03 SD African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\04 CLP African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\05 HHC African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\06 PRC African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\07 PRC African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\08 SFX African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\African Night 87bpm\Tracks\09 SFX African Night 87bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Loops\Amazing Grace 90bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Loops\Amazing Grace 90bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\01 BD Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\02 SD Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\03 CLP Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\04 SHK Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\05 PRC Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\06 SUB Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Amazing Grace 90bpm\Tracks\07 SFX Amazing Grace 90bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Loops\Anthem 72bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Loops\Anthem 72bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\01 BD Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\02 SD Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\03 HHC Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\04 HHC Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\05 PRC Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\06 CRS Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Anthem 72bpm\Tracks\07 SFX Anthem 72bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Loops\Back Up 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Loops\Back Up 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\01 BD Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\02 BD Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\03 SD Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\04 SHK Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\05 PRC Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Back Up 97bpm\Tracks\06 SFX Back Up 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Loops\Backyard 76bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Loops\Backyard 76bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\01 BD Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\02 SD Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\03 HHC Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\04 SHK Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\05 PRC Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Backyard 76bpm\Tracks\06 SFX Backyard 76bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Loops\Beat Em Down 91bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Loops\Beat Em Down 91bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\01 BD Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\02 SD Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\03 HHC Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\04 HHO Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\05 PRC Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\06 PRC Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Beat Em Down 91bpm\Tracks\07 WDC Beat Em Down 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Loops\Cash Flow 89bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Loops\Cash Flow 89bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\01 BD Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\02 BD Cash Flow 89bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\03 CLP Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\04 CLP Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\05 SHK Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Cash Flow 89bpm\Tracks\06 SFX Cash Flow 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Loops\Champ 86bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Loops\Champ 86bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\01 BD 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\02 SD 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\03 HHC 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\04 HHO 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\05 PRC 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\06 PRC 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Champ 86bpm\Tracks\07 PRC 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Loops\Clearly Now 79bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Loops\Clearly Now 79bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\01 BD Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\02 SD Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\03 CLP Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\04 HHC Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\05 SHK Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\06 WDC Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clearly Now 79bpm\Tracks\07 SFX Clearly Now 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Loops\Clipse 93bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Loops\Clipse 93bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\01 BD Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\02 BD Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\03 BD Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\04 SD Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\05 HHC Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\06 TMB Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\07 PRC Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\08 PRC Clipse 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Loops\Come Around 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Loops\Come Around 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\01 BD Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\02 SD Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\03 CLP Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\04 SHK Come Around 94bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Come Around 94bpm\Tracks\05 SFX Come Around 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Loops\Coral 91bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Loops\Coral 91bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\01 BD Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\02 SD Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\03 CLP Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\04 HHC Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\05 PRC Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Coral 91bpm\Tracks\06 SFX Coral 91bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Loops\Crooked 79bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Loops\Crooked 79bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\01 BD Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\02 BD Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\03 BD Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\04 SD Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\05 HHC Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\06 HHC Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Crooked 79bpm\Tracks\07 PRC Crooked 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Loops\Diplomat 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Loops\Diplomat 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\01 BD Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\02 CLP Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\03 PRC Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Diplomat 95bpm\Tracks\04 WDC Diplomat 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Loops\Domination 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Loops\Domination 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\01 BD Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\02 BD Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\03 BD Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\04 SD Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\05 HHC Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\06 HHC Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\07 PRC Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\08 SFX Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Domination 95bpm\Tracks\09 SFX Domination 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Loops\Dune Diver 81bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Loops\Dune Diver 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\01 BD Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\02 CLP Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\03 PRC Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\04 PRC Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Duner Diver 81bpm\Tracks\05 PRC Dune Diver 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Loops\Extra Credit 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Loops\Extra Credit 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Tracks\01 BD Extra Credit 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Tracks\02 SD Extra Credit 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Tracks\03 CLP Extra Credit 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Tracks\04 PRC Extra Credit 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Extra Credit 95bpm\Tracks\05 SUB Extra Credit 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Loops\Eye Notch 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Loops\Eye Notch 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\01 BD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\02 BD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\03 SD Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\04 CLP Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\05 HHC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\06 HHC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\07 HHO Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\08 WDC Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\09 RID Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\10 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\11 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\12 TOM Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Eye Notch 94bpm\Tracks\13 SFX Eye Notch 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Loops\Firebird 93bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Loops\Firebird 93bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\01 BD Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\02 SD Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\03 CLP Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\04 HHC Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\05 SHK Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\06 PRC Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\07 TOM Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Firebird 93bpm\Tracks\08 SUB Firebird 93bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Loops\Gal Over Gun 145bpm Main .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Loops\Gal Over Gun 145bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\01 BD Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\02 SD Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\03 CLP Gal Over Gun 145bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\04 SHK Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\05 PRC Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Gal Over Gun 145bpm\Tracks\06 SFX Gal Over Gun 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Loops\Goodas 100bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Loops\Goodas 100bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Tracks\01 BD Goodas 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Tracks\02 CLP Goodas 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Tracks\03 RIM Goodas 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Goodas 100bpm\Tracks\04 PRC Goodas 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Loops\Green Bag 98bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Loops\Green Bag 98bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\01 BD Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\02 SD Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\03 SHK Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\04 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\05 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\06 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Green Bag 98bpm\Tracks\07 PRC Green Bag 98bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Loops\Hot Season 81bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Loops\Hot Season 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\01 BD Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\02 SD Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\03 CLP Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\04 HHC Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Hot Season 81bpm\Tracks\05 HHC Hot Season 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Loops\Jewelz 80bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Loops\Jewelz 80bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\01 BD Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\02 BD Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\03 SD Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\04 CLP Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\05 HHC Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\06 HHO Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\07 PRC Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Jewelz 80bpm\Tracks\08 SUB Jewelz 80bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Loops\Load Up 89bpm  Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Loops\Load Up 89bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\01 BD Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\02 SD Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\03 CLP Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\04 SHK Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\05 SHK Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\06 CYM Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\07 CRS Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Load Up 89bpm\Tracks\08 SFX Load Up 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Loops\Loony Tune 145bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Loops\Loony Tune 145bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\01 BD Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\02 SD Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\03 CLP Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\04 HHC Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\05 HHO Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\06 CYM Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\07 SHK Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\08 TOM Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\09 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\10 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\11 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\12 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Loony Tune 145bpm\Tracks\13 SFX Loony Tune 145bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Loops\Low Gravity 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Loops\Low Gravity 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\01 BD Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\02 CLP Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\03 SUB Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\04 SFX Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Low Gravity 97bpm\Tracks\05 SFX Low Gravity 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Loops\Luxus Love 85bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Loops\Luxus Love 85bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\01 BD Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\02 SD Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\03 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\04 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\05 CLP Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\06 HHC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\07 HHC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\08 CRS Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\09 TOM Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\10 WDC Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Luxus Love 85bpm\Tracks\11 CYM Luxus Love 85bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Loops\Martian Technology 99bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Loops\Martian Technology 99bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\01 BD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\02 SD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\03 SD Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\04 CLP Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\05 PRC Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Martian Technology 99bpm\Tracks\06 PRC Martian Technology 99bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Loops\Mighty 79bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Loops\Mighty 79bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Tracks\01 BD Mighty 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Tracks\02 CLP Mighty 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Tracks\03 CLP Mighty 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Tracks\04 HHC Mighty 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mighty 79bpm\Tracks\05 HHC Mighty 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Loops\Mooncircle 115bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Loops\Mooncircle 115bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\01 BD Mooncircle 115bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\02 SD Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\03 CLP Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\04 HHC Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\05 HHO Mooncircle 115bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\06 CRS Mooncircle 115bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Mooncircle 115bpm\Tracks\07 PRC Mooncircle 115bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Loops\Oh No 66bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Loops\Oh No 66bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\01 BD Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\02 SD Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\03 CLP Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\04 HHC Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\05 HHC Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Oh No 66bpm\Tracks\06 SHK Oh No 66bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Loops\On Fire 86bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Loops\On Fire 86bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\01 BD On Fire 86bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\02 CLP On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\03 HHM On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\04 PRC On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\05 PRC On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On Fire 86bpm\Tracks\06 SFX On Fire 86bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Loops\On The Grind 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Loops\On The Grind 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\01 BD On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\02 BD On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\03 CLP On The Grind 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\On The Grind 95bpm\Tracks\04 HHC On The Grind 95bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Loops\Orient Vacation 101bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Loops\Orient Vacation 101bpm Var .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\01 BD Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\02 CLP Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\03 SHK Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\04 PRC Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\05 PRC Orient Vacation 101bpm .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\06 PRC Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\07 PRC Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\08 PRC Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Orient Vacation 101bpm\Tracks\09 CYM Orient Vacation 101bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Loops\Punjabi 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Loops\Punjabi 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\01 BD Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\02 SD Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\03 CLP Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\04 HHC Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\05 TMB Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\06 PRC Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\07 PRC Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Punjabi 97bpm\Tracks\08 SFX Punjabi 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Loops\Slow Motion 74bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Loops\Slow Motion 74bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\01 BD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\02 BD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\03 SD Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\04 HHC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\05 HHO Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\06 TMB Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\07 PRC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\08 PRC Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\09 TIM Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\10 SFX Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Slow Motion 74bpm\Tracks\11 SFX Slow Motion 74bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Loops\Solid Rock 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Loops\Solid Rock 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\01 BD Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\02 CLP Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\03 RIM Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\04 SHK Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\05 PRC Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\06 SUB Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Solid Rock 94bpm\Tracks\07 SFX Solid Rock 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Loops\Soul Search 81bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Loops\Soul Search 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\01 BD Soul Search 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\02 SD Soul Search 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\03 CLP Soul Search 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\04 HHC Soul Search 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\05 CYM Soul Search 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Loops\Stick It 94bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Loops\Stick It 94bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Tracks\01 BD Stick It 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Tracks\02 BD Stick It 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Tracks\03 CLP Stick It 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Tracks\04 Rim Stick It 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Stick It 94bpm\Tracks\05 HHC Stick It 94bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Loops\Still Diggin 81bpm Main .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Loops\Still Diggin 81bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\01 BD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\02 BD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\03 SD Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\04 HHC Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\05 HHO Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\06 CRS Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\07 SFX Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Still Diggin 81bpm\Tracks\08 SFX Still Diggin 81bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Loops\Synonym 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Loops\Synonym 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Tracks\01 BD Synonym 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Tracks\02 CLP Synonym 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Tracks\03 SHK Synonym 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Tracks\04 SFX Synonym 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Synonym 97bpm\Tracks\05 PRC Synonym 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Loops\Talk Music 95bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Loops\Talk Music 95bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\01 BD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\02 BD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\03 SD Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\04 HHC Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\05 HHO Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\06 PRC Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Talk Music 95bpm\Tracks\07 PRC Talk Music 95bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Loops\The Magnificant 97bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Loops\The Magnificant 97bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\01 SD The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\02 HHC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\03 SHK The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\04 PRC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\05 PRC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\The Magnificant 97bpm\Tracks\06 PRC The Magnificant 97bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Loops\Thrillmatic 107bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Loops\Thrillmatic 107bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\01 BD Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\02 SD Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\03 CLP Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\04 HHC Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\05 TOM Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\06 PRC Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Thrillmatic 107bpm\Tracks\07 SFX Thrillmatic 107bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Loops\Veil 79bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Loops\Veil 79bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\01 BD Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\02 BD Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\03 BD Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\04 SD Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\05 HHC Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\06 HHC Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Veil 79bpm\Tracks\07 PRC Veil 79bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Loops\Venomouz 100bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Loops\Venomouz 100bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\01 BD Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\02 CLP Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\03 HHO Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\04 SHK Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\05 TMB Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Venomouz 100bpm\Tracks\06 SFX Venomouz 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Loops\Warfare 84bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Loops\Warfare 84bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\01 BD Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\02 BD Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\03 BD Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\04 CLP Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\05 SD Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\06 HHC Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\07 HHC Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\08 CRS Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\09 TIM Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Warfare 84bpm\Tracks\10 TIM Warfare 84bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Loops\Wasted 100bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Loops\Wasted 100bpm Var .wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\01 BD Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\02 BD Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\03 CLP Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\04 CLP Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\05 Rim Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\06 HHC Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\07 SFX Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Wasted 100bpm\Tracks\08 SFX 2 Wasted 100bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Loops\Zaber 89bpm Main.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Loops\Zaber 89bpm Var.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Tracks\01 BD Zaber 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Tracks\02 CLP Zaber 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Tracks\03 HHM Zaber 89bpm.wav
+C:\Program Files (x86)\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Zaber 89bpm\Tracks\04 CRS Zaber 89bpm.wav
